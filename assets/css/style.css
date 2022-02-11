@@ -224,4 +224,8 @@ button {
 input {
     box-shadow: 2px 2px 2px#00fd616c;
 }
-
+@media screen and (max-width: 768px) {
+    .head {
+        font-size: 40px;
+    }
+}
